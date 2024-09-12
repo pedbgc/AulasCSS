@@ -1,0 +1,30 @@
+/* 
+font-weight
+line-height
+text-align
+text-shadow
+text-ident
+filter  
+*/
+:root{
+    background-color: antiquewhite;
+}
+span{
+    font-weight: bold;
+    text-align: center;
+    display: block;
+}
+
+strong{
+    font-weight: 100;
+}
+
+p{
+    text-align: justify;
+}
+
+article{
+    font-style: italic;
+    color: orange;
+    text-align: right;
+}
