@@ -1,0 +1,19 @@
+h1{
+    text-shadow: 10px 5px 15px black;
+}
+
+.amarelinhos{
+    color: yellow;
+}
+
+.italico{
+    font-style: italic;
+}
+
+#a{
+    color: aqua;
+}
+
+#b{
+    color: blue;
+}

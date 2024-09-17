@@ -1,0 +1,10 @@
+div {
+    border: solid 1px;
+    overflow: auto;
+}
+body{
+    margin: 20px;
+}
+img{
+    float: right;
+}

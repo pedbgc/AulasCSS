@@ -1,0 +1,11 @@
+p{
+    color: red;
+}
+
+ulp p{
+    color: green;
+}
+
+li, p, #heart{
+    text-shadow: 5px 5px 5px red;
+}

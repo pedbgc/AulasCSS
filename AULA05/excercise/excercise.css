@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.part1 {
+    border: solid darkred;
+    border-top: dotted darkred;
+    border-bottom: solid 10px darkred;
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.part2 {
+    padding: 15px;
+    margin: 7px;
+    line-height: 25px;
+    width: 50%;
+}
+
+.ancor {
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}

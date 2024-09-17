@@ -1,0 +1,22 @@
+div {
+    width: 250px;
+    height: 250px;
+    border: solid 1px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+#box1 {
+    padding: 10px;
+    border-color: darkred;
+    border-style: dashed;
+    border-width: 5px;
+    box-sizing: border-box;
+}
+
+#box2 {
+    padding: 10px;
+    border-color: darkred;
+    border-style: dashed;
+    border-width: 5px;;
+}

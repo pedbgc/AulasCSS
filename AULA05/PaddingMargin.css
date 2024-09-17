@@ -1,0 +1,17 @@
+:root{
+    margin: 0;
+    padding: 0;
+}
+
+.primeiro{
+    padding: 150px;
+    padding-top: 10;
+    padding-right: 20;
+    padding-bottom: 30;
+    padding-left: 40;
+    
+}
+
+.segundo{
+    margin: 150px;
+}
