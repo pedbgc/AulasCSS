@@ -1,0 +1,10 @@
+@media (orientation: landscape){
+    img {
+        display: flex;
+        margin: auto;
+    }
+    
+    h1 {
+        color: brown;
+    }
+}

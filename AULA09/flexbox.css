@@ -1,0 +1,43 @@
+#b1 {
+    background-color: green;
+}
+#b2 {
+    background-color: blue;
+}
+#b3 {
+    background-color: yellow;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #000;
+    margin: 10px;
+}
+
+.container {
+    border: solid 1px;
+    background-color: gray;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    /* flex-direction: row;
+    direction: ltr;
+    flex-wrap: wrap;
+    flex-flow: column nowrap;
+    /* justify-content: flex-start; */
+    /* justify-content: flex-end; */
+    /* justify-content: start;
+    justify-content: end;
+    justify-content: space-around;
+    justify-content: space-between; todo o espaço sera separado uniformemente */
+    /*justify-content: space-evenly;  Iguala as laterais, e divide o espaço igualmente 
+    justify-content: center;  */
+     /* justify-content: (Ajusta o main axis)
+     align-items: ; (Ajusta o cross axis)
+     */
+    
+     flex-grow: ;
+     flex-shrink: ;
+     flex-basis: ;
+}
